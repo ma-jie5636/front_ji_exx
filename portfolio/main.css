@@ -125,7 +125,7 @@ strong { font-weight: bold; }
 
 
 #skills{ width: 100%; text-align: center;  }  /* text-align: center 에 ul에 inline-block 해야 다 가운데 정렬이된다.*/
-.heading{ padding-bottom: 1em; font-size: 1.3em; color: lightskyblue; }
+.heading{ padding-bottom: 1em; font-size: 1.3em; color: lightskyblue;  position:center; }
 
 #skills ul{ 
 	display: inline-block;
